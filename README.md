@@ -11,6 +11,7 @@ Simulation-Optimization-Approach-Locomotive-Scheduling/
 ├── .gitignore
 │
 ├── analysis/
+│   └── preprocessing.ipynb
 │
 ├── src/
 │
